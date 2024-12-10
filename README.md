@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=4000&pause=500&color=F0F0F0&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=6000&pause=500&color=F0F0F0&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
 </h1>
 
 
