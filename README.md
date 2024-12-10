@@ -1,14 +1,15 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=2400&pause=500&color=F0F0F0&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=4000&pause=500&color=F0F0F0&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
 </h1>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=30&duration=2500&pause=500&color=F0F0F0&vCenter=true&width=435&separator=%3C&lines=a+Data+engineer%3Ca+Data+Analyst%3Ca+Data+Scientist%3Ca+web-developer%3Ca+Quick+learner+;)
 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hananmoalnakhal&color=blueviolet&style=flat-square"></p> 
 
 - 🔭 I’m currently working on random projects in my pocket 
-- 🌱 I’m currently learning PostgreSQL, ExpertSystems Development, Flask + other tools ✨
-- 👯 I’m looking to collaborate on Great projects related to Data
+- 🌱 learning PostgreSQL, ExpertSystems Development, Flask + other tools ✨
+- 👏 I’m looking to collaborate on Great projects related to Data
 - 💬 Ask me about designing a solution and making apps
 - 📫 reach me: 
 [My Email](mailto:nana2004mo@gmail.com)
@@ -27,6 +28,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hananmoalnakhal&show_icons=true&locale=en&layout=compact&theme=dark" alt="hananmoalnakhal" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananmoalnakhal&label=Profile%20views&color=blueviolet&style=pixel" alt="hananAlnakhal" /> </p>
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hananmoalnakhal&show_icons=true&theme=dark)-->
 
-<!-- <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hananmoalnakhal&color=blueviolet&style=flat-square"></p> -->
 
