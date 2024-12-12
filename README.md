@@ -16,7 +16,10 @@
 
 
 <!--_flat-square
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hananmoalnakhal" alt="hananmoalnakhal" /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hananmoalnakhal&show_icons=true&theme=radical)
+
 -->
 
 
