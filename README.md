@@ -1,9 +1,9 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=4000&pause=500&color=606bc6&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=60&duration=4000&pause=500&color=B0E0E6&vCenter=true&repeat=false&width=1500&lines=Hello%E2%9C%A8+%2C+It's++Hanan+Mo.+Alnakhal">
 </h1>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=30&duration=2500&pause=500&color=606bc6&vCenter=true&width=435&separator=%3C&lines=a+Data+engineer%3Ca+Data+Analyst%3Ca+Data+Scientist%3Ca+web-developer%3Ca+Quick+learner+;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=30&duration=2500&pause=500&color=B0E0E6&vCenter=true&width=435&separator=%3C&lines=a+Data+engineer%3Ca+Data+Analyst%3Ca+Data+Scientist%3Ca+web-developer%3Ca+Quick+learner+;)
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hananmoalnakhal&color=blueviolet&style=pixel"></p> 
 
