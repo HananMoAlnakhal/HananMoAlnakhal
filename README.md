@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+SemiBold&weight=600&size=30&duration=2500&pause=500&color=B0E0E6&vCenter=true&width=435&separator=%3C&lines=a+Data+engineer%3Ca+Data+Analyst%3Ca+Data+Scientist%3Ca+web-developer%3Ca+Quick+learner+;)
 
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hananmoalnakhal&color=blueviolet&style=pixel"></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hananmoalnakhal&color=3d03fc&style=flat-square"></p> 
 
 - 🔭 I’m currently working on random projects in my pocket 
 - 🌱 learning PostgreSQL, ExpertSystems Development, Flask + other tools ✨
